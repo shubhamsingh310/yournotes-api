@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://keeper-kmif.onrender.com'
+    'https://yournotes-client.onrender.com'
 ]
 
 moodule.exports = allowedOrigins
